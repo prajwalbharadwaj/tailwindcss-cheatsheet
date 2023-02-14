@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunktailwindcss_cheatsheet"]=self["webpackChunktailwindcss_cheatsheet"]||[]).push([[443],{377:function(e,t,n){n.r(t),n.d(t,{default:function(){return r}});var s=function(){var e=this,t=e._self._c;return t("div",[e._v(" v3 ")])},c=[],u={},i=u,l=n(1),a=(0,l.Z)(i,s,c,!1,null,"7bfe1c65",null),r=a.exports}}]);
+//# sourceMappingURL=about.9fd7f3b3.js.map
